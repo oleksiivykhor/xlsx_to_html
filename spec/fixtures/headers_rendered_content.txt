@@ -1,0 +1,7 @@
+<thead>
+  <tr>
+      <th>Test</th>
+      <th>Test1</th>
+      <th>Test2</th>
+  </tr>
+</thead>
